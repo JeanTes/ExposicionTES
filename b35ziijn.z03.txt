@@ -1,0 +1,52 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   src/archivo/ComArcBloNot.form
+#	new file:   src/archivo/ComArcBloNot.java
+#	new file:   src/archivo/ComArcLogIngSis.form
+#	new file:   src/archivo/ComArcLogIngSis.java
+#	new file:   src/imagenes/SplashScreen.jpg
+#	new file:   src/imagenes/abrir.gif
+#	new file:   src/imagenes/guardar.png
+#	new file:   src/imagenes/login.jpg
+#	new file:   src/imagenes/logo_acer.jpg
+#	new file:   src/imagenes/logo_asus.png
+#	new file:   src/imagenes/logo_dell.png
+#	new file:   src/imagenes/logo_hp.png
+#	new file:   src/imagenes/logo_lenovo.jpg
+#	new file:   src/imagenes/logo_lg.png
+#	new file:   src/imagenes/logo_mac.jpg
+#	new file:   src/imagenes/logo_msi.jpg
+#	new file:   src/imagenes/logo_samsung.png
+#	new file:   src/imagenes/logo_sony.png
+#	new file:   src/imagenes/logo_toshiba.jpg
+#	new file:   src/imagenes/nuevo.jpg
+#	new file:   src/imagenes/salir.jpg
+#	new file:   src/maestros/ComMaeCom.form
+#	new file:   src/maestros/ComMaeCom.java
+#	new file:   src/maestros/ComMaeCom_01.form
+#	new file:   src/maestros/ComMaeCom_01.java
+#	new file:   src/seguridades/ComIniSes.form
+#	new file:   src/seguridades/ComIniSes.java
+#	new file:   src/seguridades/ComPanPri.form
+#	new file:   src/seguridades/ComPanPri.java
+#
+# Untracked files:
+#	ComImagenesMarcas.txt
+#	ComMarcas.txt
+#	ComTESLog.txt
+#	ComTipoComputadora.txt
+#	ComUsrSis.properties
+#	Computadora
+#	build.xml
+#	build/
+#	dist/
+#	manifest.mf
+#	nbproject/
+#
+
